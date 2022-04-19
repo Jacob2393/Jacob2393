@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jacob2393
+- 👋 Hi, I’m @Jacob2393, SDET/QA Engineer in a medical company
 - 👀 I’m interested in coding, problem solving, full stack webapplication development, IOT
 - 🌱 I’m currently learning full stack webapplication
 - 💞️ I’m looking to collaborate on problem solving, application development
